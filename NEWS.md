@@ -1,5 +1,11 @@
 
-# purrrlyr 0.0.2.9000
+# purrrlyr 0.0.4
+
+* Compatibility with dplyr 0.8.0.
+* Compatibility with R 3.5.
+
+
+# purrrlyr 0.0.3
 
 * Fixed a compilation issue with clang and libc++.
 
