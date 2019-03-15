@@ -1,4 +1,9 @@
 
+# purrrlyr 0.0.5
+
+* Fixed protection issues reported by rchk.
+
+
 # purrrlyr 0.0.4
 
 * Compatibility with dplyr 0.8.0.
