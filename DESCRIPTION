@@ -1,6 +1,6 @@
 Package: purrrlyr
 Title: Tools at the Intersection of 'purrr' and 'dplyr'
-Version: 0.0.6
+Version: 0.0.7
 Authors@R: 
     c(person(given = "Lionel",
              family = "Henry",
@@ -18,16 +18,17 @@ License: GPL-3 | file LICENSE
 URL: https://github.com/hadley/purrrlyr
 BugReports: https://github.com/hadley/purrrlyr/issues
 Imports: dplyr (>= 0.8.0), magrittr (>= 1.5), purrr (>= 0.2.2), Rcpp
-Suggests: covr, testthat
+Suggests: covr, testthat (>= 3.0.0)
 LinkingTo: BH, Rcpp
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
+Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2020-05-02 08:39:12 UTC; lionel
+Packaged: 2020-12-16 18:06:21 UTC; lionel
 Author: Lionel Henry [aut, cre],
   Hadley Wickham [ctb],
   RStudio [cph]
 Maintainer: Lionel Henry <lionel@rstudio.com>
 Repository: CRAN
-Date/Publication: 2020-05-02 14:30:02 UTC
+Date/Publication: 2020-12-16 19:20:02 UTC
