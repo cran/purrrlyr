@@ -1,3 +1,10 @@
+# purrrlyr 0.0.8
+
+* Fixes for CRAN checks.
+
+* purrrlyr no longer depends on BH headers.
+
+
 # purrrlyr 0.0.7
 
 * Fixed CRAN checks with r-devel.
